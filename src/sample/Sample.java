@@ -17,6 +17,8 @@ public class Sample {
     public static void main(String[] args) {
         System.out.println("hola mundo");
         System.out.println("----------");
+        Clase a = new Clase("variable");
+        System.out.println(a);
     }
     
 }
